@@ -1,1 +1,1 @@
-### MATLAB Codes for Numerical Integration
+### MATLAB Numerical Integration Algorithms
