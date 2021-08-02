@@ -1,5 +1,6 @@
 clear all
 clc
+
 function  dN = zion10(t,N)
 dN = zeros(1,1);
 a = 0.15;
