@@ -1,4 +1,4 @@
-# Configuration 1: Low Perturbation of a on V
+# Configuration 2: High Perturbation of a on V
 
 # Load dependencies
 import pandas as pd
