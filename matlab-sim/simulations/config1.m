@@ -1,4 +1,4 @@
-Configuration 1 Simulation
+% Configuration 1 Simulation
 
 t = 0:1:14
 [t    Y] = ode45(@zion10,  [t], [2.5],'reltol=0.001')
