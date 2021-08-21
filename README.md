@@ -6,8 +6,8 @@ This study investigates the Varshni potential energy function V in a numerical a
 
 #### Authors
 Zion Pibowei, E.N. Ekaka-a,<br>
-Department of Mathematics, Faculty of Natural and Applied Sciences
-Ignatius Ajuru University of Education
+Department of Mathematics, Faculty of Natural and Applied Sciences<br>
+Ignatius Ajuru University of Education<br>
 Port Harcourt, Nigeria
 
 ## About
